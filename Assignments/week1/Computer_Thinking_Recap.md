@@ -1,6 +1,6 @@
 # **Computational Thinking**
 
-## **What is computational thinking?**
+## **Computational thinking là gì?**
 
 ![Figure 1: A first look of Computer Thinking](figure-computational-thinking.jpg)
 
