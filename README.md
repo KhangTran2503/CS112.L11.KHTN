@@ -1,13 +1,11 @@
-# CS112.L11.KHTN - VN
-
-## Môn Học: Phân tích và thiết kế thuật toán
+# CS112.L11.KHTN - Phân tích và thiết kế thuật toán
 ## Giảng viên:
-- Nguyễn Thanh Sơn
-- Lê Đình Duy
+- **Th.S Nguyễn Thanh Sơn**
+- **TS Lê Đình Duy**
 ---
 ## ID nhóm: N001
 
-## Thành viên:
+### Thành viên:
 |STT| Họ và tên         |MSSV       |Lớp       |Vai trò      |
 |:-:|:------------------|:---------:|:--------:|:-----------:|
 | 1	|[Pham Lê Quang Nhật](mailto:18520120@gm.uit.edu.vn)	| 18520120	|KHTN2018  | Nhóm trưởng |
