@@ -1,10 +1,15 @@
-# CS112.L11.KHTN
+# CS112.L11.KHTN - VN
 
-## Course: Design and Analysis of Algorithms
-## ID: N001
-## Member:
-**1. Pham Le Quang Nhat, 18520120 (Leader)**
+## Môn Học: Phân tích và thiết kế thuật toán
+## Giảng viên:
+- Nguyễn Thanh Sơn
+- Lê Đình Duy
+---
+## ID nhóm: N001
 
-**2. Nguyen Xuan Duong, 18520212**
-
-**3. Tran Dinh Khang, 18520072**
+## Thành viên:
+|STT| Họ và tên         |MSSV       |Lớp       |Vai trò      |
+|:-:|:------------------|:---------:|:--------:|:-----------:|
+| 1	|[Pham Lê Quang Nhật](mailto:18520120@gm.uit.edu.vn)	| 18520120	|KHTN2018  | Nhóm trưởng |
+| 2	|[Nguyễn Xuân Dương](mailto:18520212@gm.uit.edu.vn)	| 18520212	|KHTN2018  | Thành viên  |
+| 3	|[Trần Đình Khang](mailto:18520072@gm.uit.edu.vn)	| 18520072	|KHTN2018  | Thành viên  |
