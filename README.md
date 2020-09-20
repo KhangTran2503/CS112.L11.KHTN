@@ -15,10 +15,16 @@
 ## Tiến trình thực hiện:
 
 - [x] **1. Week1**
-  - [x] **1.1 [COMPUTATIONAL THINKING]()**
-  - [x] **1.2 [BOT]()**
+  - [x] **1.1 [COMPUTATIONAL THINKING](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week1/Computational%20Thinking/Computer_Thinking_Recap.md)**
+  - [x] **1.2 [BOT](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week1/BOT)**
+    - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week1/BOT/BOT.py)
+    - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week1/BOT/BOT.ipynb)
 
 - [x] **2. Week2**
-  - [x] **2.1 [Tảo Biển]()**
-  - [x] **2.2 [Đếm Sao]()**
+  - [x] **2.1 [Tảo Biển](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week2/TAO_BIEN)**
+    - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week2/TAO_BIEN/TAO_BIEN.py)
+    - [ ] [Giải thích]()
+  - [x] **2.2 [Đếm Sao](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week2/Counting_Star)**
+    - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week2/Counting_Star/Counting_Star.py)
+    - [ ] [Giải thích]()
 
