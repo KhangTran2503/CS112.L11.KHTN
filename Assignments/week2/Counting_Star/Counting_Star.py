@@ -1,24 +1,18 @@
-'''
-    Codefore: AC 
-    Wecode: MLE
-'''
-from bisect import *
-from math import *
+from bisect import bisect_left as lower_bound
 
 n = int(input())
 a, b, c, d = map(int,input().replace('/',' ').split())
 
-alpha = atan2(c,d) - atan2(a,b)
-tan_alpha = tan(alpha)
+points = [map(int,input().split()) for _ in range(n)]
+rpoints = [(-a*x+b*y,-(-c*x+d*y)) for x,y in points]
+spoints = sorted([(x,y) for x,y in rpoints if x>0 and y>0], key=lambda x: (x[0], -x[1]))
 
-lis = []
-
-for x,y in sorted((y/tan_alpha - x,y) for x,y in [ (x,y) for x,y in [(b*x + a*y,-a*x + b*y) for x, y in [map(int,input().split()) for _ in range(n)] if a*x - b*y <= 0 and d*y - c*x <= 0]]):
-    pos = bisect_left(lis,-y)
-    if pos == len(lis):
-        lis.append(-y)
+f = []
+for x,y in spoints:
+    i = lower_bound(f,y)
+    if i == len(f):
+        f.append(y)
     else:
-        lis[pos] = -y
+        f[i] = y
 
-print(len(lis))
-
+print(len(f))
