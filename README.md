@@ -23,8 +23,8 @@
 - [x] **2. Week2**
   - [x] **2.1 [Tảo Biển](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week2/TAO_BIEN)**
     - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week2/TAO_BIEN/TAO_BIEN.py)
-    - [ ] [Giải thích]()
+    - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week2/TAO_BIEN/Tao_Bien.ipynb)
   - [x] **2.2 [Đếm Sao](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week2/Counting_Star)**
     - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week2/Counting_Star/Counting_Star.py)
-    - [ ] [Giải thích]()
+    - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week2/Counting_Star/Tutorial_Counting_Stars.ipynb)
 
