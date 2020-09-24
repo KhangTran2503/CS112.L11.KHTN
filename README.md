@@ -28,3 +28,12 @@
     - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week2/Counting_Star/Counting_Star.py)
     - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week2/Counting_Star/Tutorial_Counting_Stars.ipynb)
 
+
+- [x] **3. Week3**
+  - [x] **3.1 [H Index]()**
+    - [x] [Source Code]()
+    - [ ] [Giải thích]()
+  - [x] **3.2 [Water Supply]()**
+    - [x] [Source Code]()
+    - [ ] [Giải thích]()
+
