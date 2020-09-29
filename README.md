@@ -32,7 +32,7 @@
 - [x] **3. Week3**
   - [x] **3.1 [H Index](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week3/H_index)**
     - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week3/H_index/H_index.py)
-    - [x] [Giải thích]()
+    - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week3/H_index/H_index.ipynb)
   - [x] **3.2 [Water Supply](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week3/WaterSupply)**
     - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week3/WaterSupply/WaterSupply.py)
     - [ ] [Giải thích]()
