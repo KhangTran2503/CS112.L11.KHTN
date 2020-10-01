@@ -37,3 +37,10 @@
     - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week3/WaterSupply/WaterSupply.py)
     - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week3/WaterSupply/Tutorial_Water_Supply.ipynb)
 
+- [ ] **4. Week4**
+  - [x] **4.1 [Đổi Mới]()**
+    - [x] [Source Code]()
+    - [ ] [Giải thích]()
+  - [ ] **4.2 [Tái Cấu Trúc]()**
+    - [ ] [Source Code]()
+    - [ ] [Giải thích]()
