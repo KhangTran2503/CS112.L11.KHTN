@@ -40,7 +40,7 @@
 - [ ] **4. Week4**
   - [x] **4.1 [Đổi Mới]()**
     - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week4/doi_moi/Doi_moi.py)
-    - [ ] [Giải thích]()
+    - [x] [Giải thích]()
   - [ ] **4.2 [Tái Cấu Trúc]()**
     - [ ] [Source Code]()
     - [ ] [Giải thích]()
