@@ -38,16 +38,25 @@
     - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week3/WaterSupply/Tutorial_Water_Supply.ipynb)
 
 - [ ] **4. Week4**
-  - [x] **4.1 [Đổi Mới]()**
+  - [x] **4.1 [Đổi Mới](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week4/doi_moi)**
     - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week4/doi_moi/Doi_moi.py)
     - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week4/Report_week4.ipynb)
   - [ ] **4.2 [Tái Cấu Trúc]()**
     - [ ] [Source Code]()
     - [ ] [Giải thích]()
+    
 - [ ] **5. Week5**
-  - [ ] **5.1 []()**
-    - [ ] [Source Code]()
-    - [ ] [Giải thích]()
+  - [x] **5.1 [Khóa Số](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week5/KhoaSo)**
+    - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week5/KhoaSo/KhoaSo.py)
+    - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week5/Report_week5.ipynb)
   - [ ] **5.2 []()**
     - [ ] [Source Code]()
     - [ ] [Giải thích]()
+
+- [x] **6. Week6**
+  - [x] **6.1 [Mức Độ Giống Nhau](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week6/Muc_Do_Giong_Nhau)**
+    - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week6/Muc_Do_Giong_Nhau/MucDoGiongNhau.py)
+    - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week6/Report_week6.ipynb)
+  - [x] **6.2 [Địa Lan](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week6/DiaLan)**
+    - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week6/DiaLan/DiaLan.py)
+    - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week6/Report_week6.ipynb)
