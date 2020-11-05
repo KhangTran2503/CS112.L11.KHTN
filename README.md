@@ -60,3 +60,11 @@
   - [x] **6.2 [Địa Lan](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week6/DiaLan)**
     - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week6/DiaLan/DiaLan.py)
     - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week6/Report_week6.ipynb)
+
+- [x] **8. Week8**
+  - [x] **8.1 [Phân số](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week6/Muc_Do_Giong_Nhau)**
+    - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week6/Muc_Do_Giong_Nhau/MucDoGiongNhau.py)
+    - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week6/Report_week6.ipynb)
+  - [x] **8.2 [Xâu con tương đương](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week6/DiaLan)**
+    - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week6/DiaLan/DiaLan.py)
+    - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week6/Report_week6.ipynb)
