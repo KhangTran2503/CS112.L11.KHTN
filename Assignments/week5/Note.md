@@ -1,4 +1,4 @@
-# TÓM TẮT, GHI CHÚ, THẢO LUẬN BUỔI HỌC 4, ngày 8-10-2020
+# TÓM TẮT, GHI CHÚ, THẢO LUẬN BUỔI HỌC 5, ngày 8-10-2020
 # Nhóm 1
 ## Thành viên:
 	- Phạm Lê Quang Nhật - 18520120
