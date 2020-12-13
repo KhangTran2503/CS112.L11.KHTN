@@ -76,3 +76,11 @@
   - [x] **9.2 [Con đường gốm sứ](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week6/DiaLan)**
     - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week9/ConDuongGomSu.py)
     - [ ] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week6/Report_week6.ipynb)
+    
+- [x] **10. Week10**
+  - [x] **10.1 [Đèn led]()**
+    - [ ] [Source Code]()
+    - [ ] [Giải thích]()
+  - [x] **9.2 [Phần thưởng]()**
+    - [ ] [Source Code]()
+    - [ ] [Giải thích]()
