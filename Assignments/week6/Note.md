@@ -12,6 +12,6 @@
 	- Làm 2 bài tập tuần này tại lớp
 ## 3. Thảo luận
 	- Thảo luận 2 bài tập "mức độ giống nhau" và "Địa lan"
-	- Viết report cho buổi học 5
+	- Viết report cho buổi học 6
 
 	
