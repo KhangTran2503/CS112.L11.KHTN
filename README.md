@@ -119,6 +119,10 @@
    - [x] [2.7 Div2 455](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Codeforces/Div2_455)
    - [x] [2.8 Div2 456](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Codeforces/Div2_456)
  - ### **[3. CSES](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/CSES)**
+   - [x] [3.1 Introduction 15/19](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/CSES/Introduction)
+   - [x] [3.2 Dynamic Programing 15/19](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/CSES/DP)
+   - [x] [3.3 Sorting And Searching 28/36](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/CSES/Sorting_And_Searching)
+   - [x] [3.4 Tree Algorithm 12/16](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/CSES/Tree_Algorithm)
  - ### **[4. Atcoder]()**
  - ### **[5. Project Euler](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Project_Euler)**
     - [x] [5.1 Problem 14](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Project_Euler/Problem14)
