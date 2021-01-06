@@ -90,7 +90,16 @@
     - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week10/PhanThuong.py)
     - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week10/Report_week10.ipynb)
 
-## Thuyết Trình []():
+## Thuyết Trình [Computational geometry](https://en.wikipedia.org/wiki/Computational_geometry):
  - **[Slide](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Presenting/Slides/CS112-Computational%20Geometry.pptx)**
  - **[Tài Liệu tham khảo](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Presenting/docs)**
  - **[Note](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Presenting/Note.md)**
+ 
+## Các chứng nhận:
+ - [1. Coursera Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
+   - [x] [Chứng chỉ]()
+ - [2. Coursera Algorithm And Datastructure]()
+   - [x] [Chứng chỉ]()
+ - [3. ICPC Miền Nam 5 bài](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Plus%20mark/Pham%20Le%20Quang%20Nhat/DIEM_KHUYEN_KHICH.ipynb)
+ - [4. ICPC Miền Bắc - Trung 3 bài](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Plus%20mark/Pham%20Le%20Quang%20Nhat/DIEM_KHUYEN_KHICH.ipynb)
+ - [5. ICPC National 2 bài](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Plus%20mark/Pham%20Le%20Quang%20Nhat/DIEM_KHUYEN_KHICH.ipynb)
