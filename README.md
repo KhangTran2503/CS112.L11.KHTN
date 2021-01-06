@@ -98,7 +98,7 @@
 ## Các chứng nhận:
  - [1. Coursera Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
    - [x] [Chứng chỉ](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Plus%20mark/Pham%20Le%20Quang%20Nhat/Coursera_certificate_algorithmic_Toolbox.pdf)
- - [2. Coursera Algorithm And Datastructure]()
+ - [2. Coursera Algorithm And Datastructure](https://www.coursera.org/specializations/data-structures-algorithms)
    - [x] [Chứng chỉ](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Plus%20mark/Pham%20Le%20Quang%20Nhat/Coursera_certificate_data_structures.pdf)
  - [3. ICPC Miền Nam 5 bài](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Plus%20mark/Pham%20Le%20Quang%20Nhat/DIEM_KHUYEN_KHICH.ipynb)
  - [4. ICPC Miền Bắc - Trung 3 bài](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Plus%20mark/Pham%20Le%20Quang%20Nhat/DIEM_KHUYEN_KHICH.ipynb)
