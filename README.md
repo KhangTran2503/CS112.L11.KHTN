@@ -121,6 +121,20 @@
  - ### **[3. CSES](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/CSES)**
  - ### **[4. Atcoder]()**
  - ### **[5. Project Euler](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Project_Euler)**
+    - [x] [5.1 Problem 14](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Project_Euler/Problem14)
+    - [x] [5.2 Problem 15](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Practice/Project_Euler/Problem15.py)
+    - [x] [5.3 Problem 16](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Practice/Project_Euler/Problem16.py)
+    - [x] [5.4 Problem 20](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Practice/Project_Euler/Problem20.py)
+    - [x] [5.5 Problem 21](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Practice/Project_Euler/Problem21.py)
+    - [x] [5.5 Problem 22](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Practice/Project_Euler/Problem22.py)
+    - [x] [5.6 Problem 23](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Practice/Project_Euler/Problem23.py)
+    - [x] [5.7 Problem 24](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Practice/Project_Euler/Problem24.py)
+    - [x] [5.8 Problem 25](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Practice/Project_Euler/Problem25.py)
+    - [x] [5.9 Problem 26](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Practice/Project_Euler/Problem26.py)
+    - [x] [5.10 Problem 27](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Practice/Project_Euler/Problem27.py)
+    - [x] [5.11 Problem 28](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Practice/Project_Euler/Problem28.py)
+    - [x] [5.12 Problem 30](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Practice/Project_Euler/Problem30.py)
+    - [x] [5.13 Problem 48](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Practice/Project_Euler/Problem48.py)
  - ### **[6. Coursera Algorithm Toolbox](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Algorithmic_toolbox)**
     - [x] [6.1 Week1](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Algorithmic_toolbox/week1)
     - [x] [6.2 Week2](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Algorithmic_toolbox/week2)
