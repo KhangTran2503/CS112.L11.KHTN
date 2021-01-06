@@ -150,10 +150,10 @@
    - [x] [6.3 Week3](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Algorithmic_toolbox/week3)
    - [x] [6.4 Week4](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Algorithmic_toolbox/week4)
    - [x] [6.5 Week5](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Algorithmic_toolbox/week5)
-   ### **[6. Coursera Data Structures](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Algorithmic_toolbox)**
-   - [x] [6.1 Week1](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Algorithmic_toolbox/week1)
-   - [x] [6.2 Week2](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Algorithmic_toolbox/week2)
-   - [x] [6.3 Week3](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Algorithmic_toolbox/week3)
-   - [x] [6.4 Week4](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Algorithmic_toolbox/week4)
-   - [x] [6.5 Week5](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Algorithmic_toolbox/week5)
+   ### **[7. Coursera Data Structures](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Data_structures)**
+   - [x] [7.1 Week1](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Data_structures/week1)
+   - [x] [7.2 Week2](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Data_structures/week2)
+   - [x] [7.3 Week3]https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Data_structures/week3)
+   - [x] [7.4 Week4](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Data_structures/week4)
+  
 
