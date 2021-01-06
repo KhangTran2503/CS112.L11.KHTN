@@ -89,3 +89,8 @@
   - [x] **9.2 [Phần thưởng](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week10)**
     - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week10/PhanThuong.py)
     - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week10/Report_week10.ipynb)
+
+## Thuyết Trình []():
+ - **[Slide](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Presenting/Slides/CS112-Computational%20Geometry.pptx)**
+ - **[Tài Liệu tham khảo](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Presenting/docs)**
+ - **[Note](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Presenting/Note.md)**
