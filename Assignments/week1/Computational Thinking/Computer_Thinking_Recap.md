@@ -42,3 +42,23 @@ Bài toán tự nấu mỳ ăn liền xúc xích.
 - Bài toán gói mỳ, xúc xích, bát đũa có thể giải quyết đơn giản vấn đề bằng cách ra siêu thị mua để đảm bảo chất lượng, mua gói mỳ loại đóng trong bát hoặc ly sẵn, xúc xích mua loại đóng bao bì có kiểm chứng của cơ quan có thẩm quyền.
 - Bài toán nước nóng: có thể sử dụng nước nóng ngay tại siêu thị và ăn mỳ ngay trong siêu thị.
 - `=>` Vậy bài toán có thể đơn giản là ra siêu thị mua và ăn ngay tại siêu thị. 
+
+---
+## **Ví dụ minh họa khác**
+- Bài toán: ho một bảng <i>N∗N</i>, mỗi ô có một lượng táo. Bắt đầu từ ô trái trên, mỗi bước có thể đi sang phải hoặc xuống dưới. Bạn có thể ăn được nhiều nhất bao nhiêu quả táo ?
+### **Phân rã bài toán:**
+- Thay vì tiếp cận với những quả táo, thì chúng ta sẽ thay thế bằng những dữ liệu rõ ràng hơn như là những con số. Cho một lưới ô vuông gồm $N x N$ ô. Xuất phát từ đỉnh trái trên, ta đi xuống đỉnh phải dưới sao cho tổng các giá trị trên đường đi là lớn nhất. Ta chỉ được đi xuống dưới và qua phải
+### **Trừu tượng hóa bài toán:**
+- Trong bài toán trên ta đã bỏ đi các yếu tố không cần thiết như là quả táo, ăn, ... Và thay vào đó là các con số cụ thể hơn
+### **Trừu tượng hóa bài toán:**
+- Tìm kiếm quy luật: Tới ô i, j ta đã có tổng lớn nhất là $S(i,j)$ vậy có 2 hướng đi để đến được ô $(i, j)$ là
+    "<blockquote>\n",
+    "    $S(i, j) = S(i, j-1) + a[i][j]$ nếu ta đi qua phải để đến $(i, j)$\n",
+    "    <br>\n",
+    "    $S(i, j) = S(i-1, j) + a[i][j]$ nếu ta đi xuống dưới để đến $(i, j)$ \n",
+    "</blockquote>\n",
+- Ta thấy đây là một bài toán quy hoạch động điển hình, ta chỉ cần lấy giá trị lớn nhất 2 trường hợp. 
+### **Thiết kế thuật toán:**
+    Lúc này sau khi đã có được những cái nhìn đầu tiên về bài toán, chúng ta sẽ đi thiết kế thuật toán sao cho phù hợp:
+
+
