@@ -105,7 +105,7 @@
  - [5. ICPC National 2 bài](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Plus%20mark/Pham%20Le%20Quang%20Nhat/DIEM_KHUYEN_KHICH.ipynb)
 
 ## Luyện Tập:
- -### **[1. AlgoBootCamp](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/AlgoBootcamp)**
+ - ### **[1. AlgoBootCamp](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/AlgoBootcamp)**
    - [x] [1.1 WB35](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/AlgoBootcamp/WB35)
    - [x] [1.2 WC01](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/AlgoBootcamp/WC01)
    - [x] [1.3 WC03](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/AlgoBootcamp/WC03)
