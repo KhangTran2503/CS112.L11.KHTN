@@ -153,7 +153,7 @@
    ### **[7. Coursera Data Structures](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Data_structures)**
    - [x] [7.1 Week1](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Data_structures/week1)
    - [x] [7.2 Week2](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Data_structures/week2)
-   - [x] [7.3 Week3]https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Data_structures/week3)
+   - [x] [7.3 Week3](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Data_structures/week3)
    - [x] [7.4 Week4](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Practice/Coursera/Data_structures/week4)
   
 
