@@ -93,7 +93,7 @@
 ## Thuyết Trình [Computational geometry](https://en.wikipedia.org/wiki/Computational_geometry):
  - **[Slide](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Presenting/Slides/CS112-Computational%20Geometry.pptx)**
  - **[Tài Liệu tham khảo](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Presenting/docs)**
- - **[Note](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Presenting/Note.md)**
+ - **[Questions and Answers](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Presenting/questions_and_answers)**
  
 ## Các chứng nhận:
  - [1. Coursera Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
