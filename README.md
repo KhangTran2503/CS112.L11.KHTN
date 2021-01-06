@@ -6,11 +6,11 @@
 ## ID nhóm: N001
 
 ### Thành viên:
-|STT| Họ và tên         |MSSV       |Lớp       |Vai trò      |
-|:-:|:------------------|:---------:|:--------:|:-----------:|
-| 1	|[Pham Lê Quang Nhật](mailto:18520120@gm.uit.edu.vn)	| 18520120	|KHTN2018  | Nhóm trưởng |
-| 2	|[Nguyễn Xuân Dương](mailto:18520212@gm.uit.edu.vn)	| 18520212	|KHTN2018  | Thành viên  |
-| 3	|[Trần Đình Khang](mailto:18520072@gm.uit.edu.vn)	| 18520072	|KHTN2018  | Thành viên  |
+|STT| Họ và tên         |MSSV       |Lớp       |Vai trò      |Link github|
+|:-:|:------------------|:---------:|:--------:|:-----------:|:---------:|
+| 1	|[Pham Lê Quang Nhật](mailto:18520120@gm.uit.edu.vn)	| 18520120	|KHTN2018  | Nhóm trưởng |[PhamLeQuangNhat](https://github.com/PhamLeQuangNhat)|
+| 2	|[Nguyễn Xuân Dương](mailto:18520212@gm.uit.edu.vn)	| 18520212	|KHTN2018  | Thành viên  |[duongcscx](https://github.com/duongcscx)|
+| 3	|[Trần Đình Khang](mailto:18520072@gm.uit.edu.vn)	| 18520072	|KHTN2018  | Thành viên  |[KhangTran2503](https://github.com/KhangTran2503)|
 
 ## Tiến trình thực hiện:
 
@@ -93,13 +93,13 @@
 ## Thuyết Trình [Computational geometry](https://en.wikipedia.org/wiki/Computational_geometry):
  - **[Slide](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Presenting/Slides/CS112-Computational%20Geometry.pptx)**
  - **[Tài Liệu tham khảo](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Presenting/docs)**
- - **[Note](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Presenting/Note.md)**
+ - **[Questions and Answers](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Presenting/questions_and_answers)**
  
 ## Các chứng nhận:
  - [1. Coursera Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
-   - [x] [Chứng chỉ]()
+   - [x] [Chứng chỉ](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Plus%20mark/Pham%20Le%20Quang%20Nhat/Coursera_certificate_algorithmic_Toolbox.pdf)
  - [2. Coursera Algorithm And Datastructure]()
-   - [x] [Chứng chỉ]()
+   - [x] [Chứng chỉ](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Plus%20mark/Pham%20Le%20Quang%20Nhat/Coursera_certificate_data_structures.pdf)
  - [3. ICPC Miền Nam 5 bài](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Plus%20mark/Pham%20Le%20Quang%20Nhat/DIEM_KHUYEN_KHICH.ipynb)
  - [4. ICPC Miền Bắc - Trung 3 bài](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Plus%20mark/Pham%20Le%20Quang%20Nhat/DIEM_KHUYEN_KHICH.ipynb)
  - [5. ICPC National 2 bài](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Plus%20mark/Pham%20Le%20Quang%20Nhat/DIEM_KHUYEN_KHICH.ipynb)
