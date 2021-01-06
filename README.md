@@ -49,7 +49,7 @@
   - [x] **5.1 [Khóa Số](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week5/KhoaSo)**
     - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week5/KhoaSo/KhoaSo.py)
     - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week5/Report_week5.ipynb)
-  - [ ] **5.2 []()**
+  - [ ] **5.2 [Cyclick Isomorphism]()**
     - [ ] [Source Code]()
     - [ ] [Giải thích]()
 
@@ -61,26 +61,31 @@
     - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week6/DiaLan/DiaLan.py)
     - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week6/Report_week6.ipynb)
 
+- [x] **7. Week7**
+  - [x] **[Sinh Test Bai DiaLan(Week6)](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week7)**
+    - [x] [Code Gen Test](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week7/gen_test.py)
+    - [x] [TEST](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week7)
+
 - [x] **8. Week8**
-  - [x] **8.1 [Phân số](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week6/Muc_Do_Giong_Nhau)**
-    - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week6/Muc_Do_Giong_Nhau/MucDoGiongNhau.py)
-    - [ ] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week6/Report_week6.ipynb)
-  - [x] **8.2 [Xâu con tương đương](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week6/DiaLan)**
-    - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week6/DiaLan/DiaLan.py)
-    - [ ] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week6/Report_week6.ipynb)
+  - [x] **8.1 [Phân số](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week8)**
+    - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week8/PhanSo.py)
+    - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week8/Report_week8.ipynb)
+  - [x] **8.2 [Xâu con tương đương](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week8)**
+    - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week8/XauConTuongDuong.py)
+    - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week8/Report_week8.ipynb)
 
 - [x] **9. Week9**
-  - [x] **9.1 [Số Nguyên Mới](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week6/Muc_Do_Giong_Nhau)**
+  - [x] **9.1 [Số Nguyên Mới](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week9)**
     - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week9/SoNguyenMoi.py)
-    - [ ] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week6/Report_week6.ipynb)
-  - [x] **9.2 [Con đường gốm sứ](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week6/DiaLan)**
+    - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week9/Report_week9.ipynb)
+  - [x] **9.2 [Con đường gốm sứ](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week9)**
     - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week9/ConDuongGomSu.py)
-    - [ ] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week6/Report_week6.ipynb)
+    - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week9/Report_week9.ipynb)
     
 - [x] **10. Week10**
-  - [x] **10.1 [Đèn led]()**
-    - [x] [Source Code]()
-    - [ ] [Giải thích]()
-  - [x] **9.2 [Phần thưởng]()**
-    - [x] [Source Code]()
-    - [ ] [Giải thích]()
+  - [x] **10.1 [Đèn led](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week10)**
+    - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week10/den_led.py)
+    - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week10/Report_week10.ipynb)
+  - [x] **9.2 [Phần thưởng](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/tree/master/Assignments/week10)**
+    - [x] [Source Code](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week10/PhanThuong.py)
+    - [x] [Giải thích](https://github.com/PhamLeQuangNhat/CS112.L11.KHTN/blob/master/Assignments/week10/Report_week10.ipynb)
