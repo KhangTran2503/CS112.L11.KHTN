@@ -1,5 +1,9 @@
-# TÓM TẮT, GHI CHÚ, THẢO LUẬN BUỔI HỌC 10-09-2020
-
+# TÓM TẮT, GHI CHÚ, THẢO LUẬN BUỔI HỌC 1, ngày 10-09-2020
+# Nhóm 1
+## Thành viên:
+	- Phạm Lê Quang Nhật - 18520120
+	- Trần Đình Khang - 18520072
+	- Nguyễn Xuân Dương - 18520212
 ## 1. Tóm tắt và ghi chú 
 	- Giới thiệu nội dung, mục tiêu, cách tính điểm môn học
 	- Tìm hiểu và phân tích các vấn đề trong Computional Thinking:
@@ -13,10 +17,13 @@
 		+ Khi nào seminar?
 		+ Môn này sẽ giúp ích như thế nào cho công việc sau này?
 		....
+	- Khuyến khích tham gia các cuộc thi ACM, ICPC, contest Codeforces, Hackerank, ...
 	- Chia nhóm
 	- Điểm danh
 ## 2. Thảo luận
+	- Thảo luận cách giải bài tập Bot
 	- Cách sắp xếp bàn ghế để ngồi theo nhóm sao cho hiệu quả
+
 
 
 
